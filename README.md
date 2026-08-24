@@ -45,12 +45,6 @@ Structured Text alongside existing FBD/Ladder knowledge.
    interlocked off regardless of mode, and an alarm indication is triggered
    until cleared via a dedicated fault reset on the HMI.
 
-   ## Planned / Possible Extensions
-
-- LowLow level interlock (dry-run / pump protection on the low end)
-- Separate alarm **acknowledge** vs **reset** (silence horn vs clear fault)
-- Scaling raw level value to engineering units (% or litres)
-- Alarm history/event logging on the HMI
 
 ## Skills Demonstrated
 
