@@ -53,6 +53,10 @@ and interlock logic, HMI design, alarm/safety logic (CODESYS).
 
 ## Related Projects
 Industrial batch mixer - https://github.com/khali333/Industrial-batch-mixer
+
 Conveyor Control System - https://github.com/khali333/PLC-Conveyor-Control-System
+
+## Author
+Mohamed O. Khalifa Alsayed
 
    
